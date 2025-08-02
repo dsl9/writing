@@ -25,3 +25,7 @@ vite.config.ts.timestamp-*
 .dev.vars*
 !.dev.vars.example
 .env*
+
+AGENT.md
+AGENTS.md
+CLAUDE.md
