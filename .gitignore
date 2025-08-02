@@ -29,3 +29,4 @@ vite.config.ts.timestamp-*
 AGENT.md
 AGENTS.md
 CLAUDE.md
+.vscode
